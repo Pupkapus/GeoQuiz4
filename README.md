@@ -22,9 +22,11 @@
 <p align = "center" >РЕШЕНИЕ ЗАДАЧ</p>
 
 <p align = "center" >Исследуем Layout Inspector</p>
+
 ![Screenshot](https://github.com/Pupkapus/GeoQuiz4/blob/main/Снимок%20экрана%20(7).png)
 
 <p align = "center" >Упражнение. Profiler</p>
+
 ![Screenshot](https://github.com/Pupkapus/GeoQuiz4/blob/main/Screenshot_1.png)
 ![Screenshot](https://github.com/Pupkapus/GeoQuiz4/blob/main/Screenshot_2.png)
 ![Screenshot](https://github.com/Pupkapus/GeoQuiz4/blob/main/Screenshot_3.png)
