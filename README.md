@@ -22,13 +22,13 @@
 <p align = "center" >РЕШЕНИЕ ЗАДАЧ</p>
 
 <p align = "center" >Исследуем Layout Inspector</p>
-![Image alt](https://github.com/Pupkapus/GeoQuiz4/blob/main/Снимок%20экрана%20(7).png)
+![Screenshot](https://github.com/Pupkapus/GeoQuiz4/blob/main/Снимок%20экрана%20(7).png)
 
 <p align = "center" >Упражнение. Profiler</p>
-![Image alt](https://github.com/Pupkapus/GeoQuiz4/blob/main/Screenshot_1.png)
-![Image alt](https://github.com/Pupkapus/GeoQuiz4/blob/main/Screenshot_2.png)
-![Image alt](https://github.com/Pupkapus/GeoQuiz4/blob/main/Screenshot_3.png)
-![Image alt](https://github.com/Pupkapus/GeoQuiz4/blob/main/Screenshot_4.png)
+![Screenshot](https://github.com/Pupkapus/GeoQuiz4/blob/main/Screenshot_1.png)
+![Screenshot](https://github.com/Pupkapus/GeoQuiz4/blob/main/Screenshot_2.png)
+![Screenshot](https://github.com/Pupkapus/GeoQuiz4/blob/main/Screenshot_3.png)
+![Screenshot](https://github.com/Pupkapus/GeoQuiz4/blob/main/Screenshot_4.png)
 ***
 <p align = "center" >ВЫВОД</p>
 <p>Подводя итог всему сказанному, могу сделать вывод, что, поработав c kotlin, я узнал многое и применил это на практике. Все задачи были выполнены.</p>
