@@ -21,10 +21,14 @@
 <p>Авторы ставили целью создать язык более лаконичный и типобезопасный, чем Java, и более простой, чем Scala[4]. Следствием упрощения по сравнению со Scala стали также более быстрая компиляция и лучшая поддержка языка в IDE[5]. Язык полностью совместим с Java, что позволяет Java-разработчикам постепенно перейти к его использованию; в частности, язык также встраивается Android, что позволяет для существующего Android-приложения внедрять новые функции на Kotlin без переписывания приложения целиком.</p>
 <p align = "center" >РЕШЕНИЕ ЗАДАЧ</p>
 
-```kotlin
+<p align = "center" >Исследуем Layout Inspector</p>
+![Image alt](https://github.com/Pupkapus/GeoQuiz4/blob/main/Снимок%20экрана%20(7).png)
 
-
-```
+<p align = "center" >Упражнение. Profiler</p>
+![Image alt](https://github.com/Pupkapus/GeoQuiz4/blob/main/Screenshot_1.png)
+![Image alt](https://github.com/Pupkapus/GeoQuiz4/blob/main/Screenshot_2.png)
+![Image alt](https://github.com/Pupkapus/GeoQuiz4/blob/main/Screenshot_3.png)
+![Image alt](https://github.com/Pupkapus/GeoQuiz4/blob/main/Screenshot_4.png)
 ***
 <p align = "center" >ВЫВОД</p>
 <p>Подводя итог всему сказанному, могу сделать вывод, что, поработав c kotlin, я узнал многое и применил это на практике. Все задачи были выполнены.</p>
